@@ -29,12 +29,26 @@
  - **Gradient Boosting**
 
 # Evaluation Metrics:
- # Root Mean Squared Error (RMSE): Measures the average squared difference between actual and predicted values.
+ ## Root Mean Squared Error (RMSE): 
+   Measures the average squared difference between actual and predicted values.
   ![Alt text](https://github.com/Vishweshwar-6/Sales-Prediction-using-Machine-Learning/blob/main/RMSE.png)
- # Mean Absolute Error (MAE): Measures the average absolute difference between actual and predicted values.
+ ## Mean Absolute Error (MAE): 
+   Measures the average absolute difference between actual and predicted values.
   ![Alt text](https://github.com/Vishweshwar-6/Sales-Prediction-using-Machine-Learning/blob/main/MSE.png)
 
-# Results
+## Results
  The performance of each model is evaluated using RMSE and MAE. The final results are summarized in the table below:
  ![Alt text](https://github.com/Vishweshwar-6/Sales-Prediction-using-Machine-Learning/blob/main/result.png)
+
+# Conclusion: 
+ Gradient Boosting performed the best in terms of both RMSE and MAE.
+
+Run all the cells in the notebook to execute the code and view the results.
+
+
+## Project Report
+ The Project Report.docx explains more detailed information about the project methodology, data preprocessing, and model evaluation.
+
+## Presentation
+ A summary of the project is available in the Sales Prediction.pptx file, which covers key aspects such as the problem statement, algorithms used, and results.
  
